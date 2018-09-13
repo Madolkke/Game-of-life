@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5c920cd-0771-4f7b-83ef-cf0f94a75cef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gol/contents/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gol/contents/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gamestart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -292,12 +286,20 @@
       <workItem from="1536746197197" duration="108000" />
       <workItem from="1536754944339" duration="859000" />
       <workItem from="1536764247834" duration="7969000" />
-      <workItem from="1536843223035" duration="390000" />
+      <workItem from="1536843223035" duration="641000" />
     </task>
+    <task id="LOCAL-00001" summary="for push test">
+      <created>1536843779819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536843779819</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146923000" />
+    <option name="totallyTimeSpent" value="147174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1280" height="709" extended-state="0" />
@@ -338,6 +340,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="for push test" />
+    <option name="LAST_COMMIT_MESSAGE" value="for push test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
