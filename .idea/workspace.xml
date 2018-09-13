@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5c920cd-0771-4f7b-83ef-cf0f94a75cef" name="Default" comment="" />
+    <list default="true" id="d5c920cd-0771-4f7b-83ef-cf0f94a75cef" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gol/contents/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gol/contents/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gamestart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,54 +19,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ui.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ui.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="84">
+              <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#Map#0;class#Map#0" />
+                <element signature="method#Map#1;class#Map#0" />
+                <element signature="method#Map#2;class#Map#0" />
+                <element signature="method#mapInitialize#0;class#Map#0" />
+                <element signature="method#cellInitialize#0;class#Map#0" />
+                <element signature="method#checkCell#0;class#Map#0" />
+                <element signature="method#toSaver#0;class#Map#0" />
+                <element signature="method#recordCheck#0;class#Map#0" />
+                <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+                <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+                <element signature="method#nextStep#0;class#Map#0" />
+                <element signature="method#easyPrint#0;class#Map#0" />
+                <element signature="method#mapStringout#0;class#Map#0" />
+                <element signature="class#MyArrayList#0" />
+                <element signature="method#contains#0;class#MyArrayList#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contents.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Contents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-              <folding>
-                <element signature="e#1216#1217#0" expanded="true" />
-                <element signature="e#1247#1248#0" expanded="true" />
-                <element signature="e#1321#1322#0" expanded="true" />
-                <element signature="e#1351#1352#0" expanded="true" />
-                <element signature="e#1430#1431#0" expanded="true" />
-                <element signature="e#1466#1467#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1203#1204#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomTool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gol/util/RandomTool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gamestart.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gamestart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -72,11 +56,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Gamestart.java" />
-        <option value="$PROJECT_DIR$/src/ui.java" />
         <option value="$PROJECT_DIR$/src/Util.java" />
         <option value="$PROJECT_DIR$/src/sdkf/Util.java" />
         <option value="$PROJECT_DIR$/src/Utils/Util.java" />
@@ -84,6 +74,15 @@
         <option value="$PROJECT_DIR$/src/golutil/Util.java" />
         <option value="$PROJECT_DIR$/src/gol/util/RandomTool.java" />
         <option value="$PROJECT_DIR$/src/Contents.java" />
+        <option value="$PROJECT_DIR$/src/gol/contents/Contents.java" />
+        <option value="$PROJECT_DIR$/src/gol/contents/Logic.java" />
+        <option value="$PROJECT_DIR$/src/Gamestart.java" />
+        <option value="$PROJECT_DIR$/src/ui.java" />
+        <option value="$PROJECT_DIR$/src/GameofLife.form" />
+        <option value="$PROJECT_DIR$/src/UI.java" />
+        <option value="$PROJECT_DIR$/src/gol/contents/Map.java" />
+        <option value="$PROJECT_DIR$/src/gol/util/Drawtest.java" />
+        <option value="$PROJECT_DIR$/src/gol/contents/UI.java" />
       </list>
     </option>
   </component>
@@ -97,17 +96,18 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="24" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -126,12 +126,6 @@
               <item name="Game of life" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Game of life" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Game of life" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -141,12 +135,22 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="gol.contents" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="gol.contents" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,14 +164,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomTool">
-    <configuration name="Gamestart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Gamestart" />
+  <component name="RunManager" selected="Application.UI">
+    <configuration name="Contents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gol.contents.Contents" />
       <module name="Game of life" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gol.contents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="RandomTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gol.util.RandomTool" />
+    <configuration name="Drawtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gol.util.Drawtest" />
       <module name="Game of life" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -177,8 +187,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Util" />
+    <configuration name="Gamestart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gol.contents.Gamestart" />
+      <module name="Game of life" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gol.contents.Map" />
+      <module name="Game of life" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gol.contents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gol.contents.UI" />
       <module name="Game of life" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -225,13 +251,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.Gamestart" />
-      <item itemvalue="Application.Util" />
-      <item itemvalue="Application.RandomTool" />
+      <item itemvalue="Application.Contents" />
+      <item itemvalue="Application.Map" />
+      <item itemvalue="Application.UI" />
+      <item itemvalue="Application.Drawtest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomTool" />
-        <item itemvalue="Application.Util" />
+        <item itemvalue="Application.UI" />
+        <item itemvalue="Application.Drawtest" />
+        <item itemvalue="Application.Map" />
+        <item itemvalue="Application.Contents" />
         <item itemvalue="Application.Gamestart" />
       </list>
     </recent_temporary>
@@ -246,45 +276,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533541054970</updated>
-      <workItem from="1533541057211" duration="25749000" />
+      <workItem from="1533541057211" duration="71066000" />
+      <workItem from="1534734864078" duration="4973000" />
+      <workItem from="1534775303013" duration="631000" />
+      <workItem from="1534776012897" duration="2047000" />
+      <workItem from="1534825990918" duration="6771000" />
+      <workItem from="1534930874571" duration="4270000" />
+      <workItem from="1535376350318" duration="291000" />
+      <workItem from="1535812604843" duration="9544000" />
+      <workItem from="1535983490238" duration="7389000" />
+      <workItem from="1536155489018" duration="3679000" />
+      <workItem from="1536235633492" duration="12753000" />
+      <workItem from="1536494061232" duration="4831000" />
+      <workItem from="1536585208261" duration="9352000" />
+      <workItem from="1536746197197" duration="108000" />
+      <workItem from="1536754944339" duration="859000" />
+      <workItem from="1536764247834" duration="7969000" />
+      <workItem from="1536843223035" duration="390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25749000" />
+    <option name="totallyTimeSpent" value="146923000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <frame x="0" y="24" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32913387" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32913387" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32913387" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" weight="0.32913387" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.33070865" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1828125" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,36 +341,544 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Game of life.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui.java">
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="1770">
+          <caret line="214" column="43" selection-start-line="214" selection-start-column="43" selection-end-line="214" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gamestart.java">
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="1770">
+          <caret line="214" column="43" selection-start-line="214" selection-start-column="43" selection-end-line="214" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gol/util/RandomTool.java">
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/UI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="960">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1200#1287#0" />
+            <element signature="class#1431:1646" />
+            <element signature="class#2604:2894" />
+            <element signature="method#actionPerformed#0;class#2604:2881" />
+            <element signature="class#2035:2105" />
+            <element signature="method#actionPerformed#0;class#2931:3125" />
+            <element signature="class#Drawer#0;class#UI#0" />
+            <element signature="method#Drawer#0;class#Drawer#0;class#UI#0" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3210">
+          <caret line="214" column="43" selection-start-line="214" selection-start-column="43" selection-end-line="214" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1200#1287#0" />
+            <element signature="class#1431:1646" />
+            <element signature="class#2604:2894" />
+            <element signature="method#actionPerformed#0;class#2604:2881" />
+            <element signature="class#2035:2105" />
+            <element signature="method#actionPerformed#0;class#2931:3125" />
+            <element signature="class#Drawer#0;class#UI#0" />
+            <element signature="method#Drawer#0;class#Drawer#0;class#UI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="214" column="43" selection-start-line="214" selection-start-column="43" selection-end-line="214" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Gamestart.java" />
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="58" column="54" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1200#1287#0" />
+            <element signature="class#1431:1646" />
+            <element signature="class#2604:2894" />
+            <element signature="method#actionPerformed#0;class#2604:2881" />
+            <element signature="class#2035:2105" />
+            <element signature="method#actionPerformed#0;class#2931:3125" />
+            <element signature="class#Drawer#0;class#UI#0" />
+            <element signature="method#Drawer#0;class#Drawer#0;class#UI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="212" column="11" selection-start-line="212" selection-start-column="11" selection-end-line="212" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1200#1287#0" />
+            <element signature="class#1431:1646" />
+            <element signature="class#2604:2894" />
+            <element signature="method#actionPerformed#0;class#2604:2881" />
+            <element signature="class#2035:2105" />
+            <element signature="method#actionPerformed#0;class#2931:3125" />
+            <element signature="class#Drawer#0;class#UI#0" />
+            <element signature="method#Drawer#0;class#Drawer#0;class#UI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Gamestart.java" />
+    <entry file="file://$PROJECT_DIR$/src/gol/util/Drawtest.java" />
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="212" column="11" selection-start-line="212" selection-start-column="11" selection-end-line="212" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Gamestart.java" />
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1200#1287#0" />
+            <element signature="class#1431:1646" />
+            <element signature="class#2604:2894" />
+            <element signature="method#actionPerformed#0;class#2604:2881" />
+            <element signature="class#2035:2105" />
+            <element signature="method#actionPerformed#0;class#2931:3125" />
+            <element signature="class#Drawer#0;class#UI#0" />
+            <element signature="method#Drawer#0;class#Drawer#0;class#UI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="212" column="11" selection-start-line="212" selection-start-column="11" selection-end-line="212" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Gamestart.java" />
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1200#1287#0" />
+            <element signature="class#1431:1646" />
+            <element signature="class#2604:2894" />
+            <element signature="method#actionPerformed#0;class#2604:2881" />
+            <element signature="class#2035:2105" />
+            <element signature="method#actionPerformed#0;class#2931:3125" />
+            <element signature="class#Drawer#0;class#UI#0" />
+            <element signature="method#Drawer#0;class#Drawer#0;class#UI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1200#1287#0" />
+            <element signature="class#1431:1646" />
+            <element signature="class#2604:2894" />
+            <element signature="method#actionPerformed#0;class#2604:2881" />
+            <element signature="class#2035:2105" />
+            <element signature="method#actionPerformed#0;class#2931:3125" />
+            <element signature="class#Drawer#0;class#UI#0" />
+            <element signature="method#Drawer#0;class#Drawer#0;class#UI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Gamestart.java" />
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="232" column="5" lean-forward="true" selection-start-line="232" selection-start-column="5" selection-end-line="232" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2820">
+          <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game of life.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="uml://JAVA/Cell">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -345,21 +899,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contents.java">
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/util/RandomTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="180">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Logic.java" />
+    <entry file="file://$PROJECT_DIR$/src/GameofLife.form" />
+    <entry file="file://$PROJECT_DIR$/src/GameofLife.java" />
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Coordinate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <element signature="e#1216#1217#0" expanded="true" />
-            <element signature="e#1247#1248#0" expanded="true" />
-            <element signature="e#1321#1322#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
-            <element signature="e#1430#1431#0" expanded="true" />
-            <element signature="e#1466#1467#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
+            <element signature="method#Coordinate#0;class#Coordinate#0" />
+            <element signature="method#getAround#0;class#Coordinate#0" />
+            <element signature="method#equals#0;class#Coordinate#0" />
+            <element signature="method#nextStatus#0;class#Coordinate#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/util/Drawtest.java" />
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Gamestart.java" />
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1200#1287#0" />
+            <element signature="class#1431:1646" />
+            <element signature="class#2604:2894" />
+            <element signature="method#actionPerformed#0;class#2604:2881" />
+            <element signature="class#2035:2105" />
+            <element signature="method#actionPerformed#0;class#2931:3125" />
+            <element signature="class#Drawer#0;class#UI#0" />
+            <element signature="method#Drawer#0;class#Drawer#0;class#UI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gol/contents/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Map#0;class#Map#0" />
+            <element signature="method#Map#1;class#Map#0" />
+            <element signature="method#Map#2;class#Map#0" />
+            <element signature="method#mapInitialize#0;class#Map#0" />
+            <element signature="method#cellInitialize#0;class#Map#0" />
+            <element signature="method#checkCell#0;class#Map#0" />
+            <element signature="method#toSaver#0;class#Map#0" />
+            <element signature="method#recordCheck#0;class#Map#0" />
+            <element signature="method#createSuperCoordinateSet#0;class#Map#0" />
+            <element signature="method#obtainEmptyPlace#0;class#Map#0" />
+            <element signature="method#nextStep#0;class#Map#0" />
+            <element signature="method#easyPrint#0;class#Map#0" />
+            <element signature="method#mapStringout#0;class#Map#0" />
+            <element signature="class#MyArrayList#0" />
+            <element signature="method#contains#0;class#MyArrayList#0" />
           </folding>
         </state>
       </provider>
